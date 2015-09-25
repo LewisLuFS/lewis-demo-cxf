@@ -8,9 +8,15 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
+	<name>The CXF Demos</name>
+
 	<modules>
+		<!-- SOAP -->
 		<module>soap-cxf</module>
 		<module>soap-spring-cxf</module>
+
+		<!-- REST -->
+		<module>rest-cxf</module>
 	</modules>
 
 	<properties>
@@ -70,6 +76,12 @@
 				<artifactId>jackson-jaxrs-json-provider</artifactId>
 				<version>${jackson.version}</version>
 			</dependency>
+			<!-- CXF REST Client -->
+			<dependency>
+				<groupId>org.apache.cxf</groupId>
+				<artifactId>cxf-rt-rs-client</artifactId>
+				<version>${cxf.version}</version>
+			</dependency>
 			<!-- Jetty is needed if you're are not using the CXFServlet -->
 			<dependency>
 				<groupId>org.apache.cxf</groupId>
@@ -106,6 +118,4 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-
-	<name>The CXF Demos</name>
 </project>

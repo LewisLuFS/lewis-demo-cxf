@@ -7,6 +7,6 @@
 
 	<context:component-scan base-package="org.lewis.demo.ws.soap" />
 
-	<import resource="spring-cxf-simple.xml" />
+	<import resource="spring-cxf.xml" />
 
 </beans>

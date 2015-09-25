@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>rest-cxf</artifactId>
-	<name>rest-cxf</name>
+	<name>REST CXF</name>
 
 	<dependencies>
 		<!-- CXF REST -->

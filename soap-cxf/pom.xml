@@ -29,6 +29,12 @@
 			<version>${cxf.version}</version>
 		</dependency>
 
+		<dependency>
+			<groupId>commons-codec</groupId>
+			<artifactId>commons-codec</artifactId>
+			<version>1.10</version>
+		</dependency>
+
 		<!-- jUnit -->
 		<dependency>
 			<groupId>junit</groupId>

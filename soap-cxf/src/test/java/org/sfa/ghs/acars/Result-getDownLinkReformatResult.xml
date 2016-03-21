@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skycenter>
+	<Data>
+		<Message type="ACARSResult" source="ACARS" reality="T"
+			rcvTime="2016-03-18 08:07:35">
+			<head>
+				<datagramId>20160318080735M17B-2839M82A</datagramId>
+				<priority>QU</priority>
+				<an>B-2839</an>
+				<fi>O36899</fi>
+				<rcvAddress>SZXDPO3</rcvAddress>
+				<sndAddress>BJSXCXA</sndAddress>
+				<bepTime>180807</bepTime>
+				<smi>M17</smi>
+				<dsp>BJS</dsp>
+				<rgs>CAN</rgs>
+				<rgsTime>180807</rgsTime>
+				<msn>M82A</msn>
+				<datagramType>POS</datagramType>
+			</head>
+			<datamsg>
+				<unit name="SENDTIME">2016-03-18 08:07:35</unit>
+				<unit name="LON">E114084920</unit>
+				<unit name="LAT">N22485040</unit>
+				<unit name="FOB">18920</unit>
+				<unit name="ALT">A5047</unit>
+			</datamsg>
+			<rawmsg><![CDATA[&#x1;QU SZXDPO3
+.BJSXCXA 180807
+&#x2;M17
+FI O36899/AN B-2839
+DT BJS CAN 180807 M82A
+-  POS180807/N 22.814/E114.147/18920/A5047
+&#x3;]]></rawmsg>
+		</Message>
+	</Data>
+	<MaxId>30601911</MaxId>
+	<Counts>1</Counts>
+	<resultCode>0</resultCode>
+	<version>2.0</version>
+</skycenter>

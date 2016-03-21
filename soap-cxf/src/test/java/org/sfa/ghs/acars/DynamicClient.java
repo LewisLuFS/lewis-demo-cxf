@@ -20,16 +20,16 @@ public class DynamicClient {
 				.createClient("http://acars.sf-express.com/SkyWebservice/services/AcarsDataDownService?wsdl");
 
 		try {
-			String userName = SunBase64.encode("ghs");
-			String password = SunBase64.encode("Ghs_123456");
-			String maxId = SunBase64.encode("30605049");
-			String number = SunBase64.encode("10");
-			String version = SunBase64.encode("2.0");
+			String userName = ApacheBase64.encode("ghs");
+			String password = ApacheBase64.encode("Ghs_123456");
+			String maxId = ApacheBase64.encode("30605069");
+			String number = ApacheBase64.encode("10");
+			String version = ApacheBase64.encode("2.0");
 
 			QName opName = new QName("http://service.webservice.adcc.com/", "getDownLinkReformatResult");
 			Object[] results = client.invoke(opName, userName, password, maxId, number, version);
 			String res = (String) results[0];
-			System.out.println(SunBase64.decode(res));
+			System.out.println(ApacheBase64.decode(res));
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

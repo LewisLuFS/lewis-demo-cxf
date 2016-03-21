@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skycenter>
+	<Data>
+		<Message type="ACARSResult" source="ACARS" reality="T"
+			rcvTime="2016-03-21 05:25:14">
+			<head>
+				<datagramId>20160321052514M17B-2630M20A</datagramId>
+				<priority>QU</priority>
+				<an>B-2630</an>
+				<fi>O36876</fi>
+				<rcvAddress>SZXDPO3</rcvAddress>
+				<sndAddress>BJSXCXA</sndAddress>
+				<bepTime>210525</bepTime>
+				<smi>M17</smi>
+				<dsp>BJS</dsp>
+				<rgs>TNA</rgs>
+				<rgsTime>210525</rgsTime>
+				<msn>M20A</msn>
+				<datagramType>POS</datagramType>
+			</head>
+			<datamsg>
+				<unit name="SENDTIME">2016-03-21 05:25:14</unit>
+				<unit name="LON">E114441320</unit>
+				<unit name="LAT">N38120720</unit>
+				<unit name="FOB">23480</unit>
+				<unit name="ALT">A32109</unit>
+			</datamsg>
+			<rawmsg><![CDATA[&#x1;QU SZXDPO3
+.BJSXCXA 210525
+&#x2;M17
+FI O36876/AN B-2630
+DT BJS TNA 210525 M20A
+-  POS210525/N 38.202/E114.737/23480/A32109
+&#x3;]]></rawmsg>
+		</Message>
+		<Message type="ACARSResult" source="ACARS" reality="T"
+			rcvTime="2016-03-21 05:30:07">
+			<head>
+				<datagramId>20160321053007M17B-2630M21A</datagramId>
+				<priority>QU</priority>
+				<an>B-2630</an>
+				<fi>O36876</fi>
+				<rcvAddress>SZXDPO3</rcvAddress>
+				<sndAddress>BJSXCXA</sndAddress>
+				<bepTime>210530</bepTime>
+				<smi>M17</smi>
+				<dsp>BJS</dsp>
+				<rgs>TNA</rgs>
+				<rgsTime>210530</rgsTime>
+				<msn>M21A</msn>
+				<datagramType>POS</datagramType>
+			</head>
+			<datamsg>
+				<unit name="SENDTIME">2016-03-21 05:30:07</unit>
+				<unit name="LON">E114481440</unit>
+				<unit name="LAT">N37354560</unit>
+				<unit name="FOB">23040</unit>
+				<unit name="ALT">A32107</unit>
+			</datamsg>
+			<rawmsg><![CDATA[&#x1;QU SZXDPO3
+.BJSXCXA 210530
+&#x2;M17
+FI O36876/AN B-2630
+DT BJS TNA 210530 M21A
+-  POS210530/N 37.596/E114.804/23040/A32107
+&#x3;]]></rawmsg>
+		</Message>
+		<Message type="ACARSResult" source="ACARS" reality="T"
+			rcvTime="2016-03-21 05:35:12">
+			<head>
+				<datagramId>20160321053512M17B-2630M22A</datagramId>
+				<priority>QU</priority>
+				<an>B-2630</an>
+				<fi>O36876</fi>
+				<rcvAddress>SZXDPO3</rcvAddress>
+				<sndAddress>BJSXCXA</sndAddress>
+				<bepTime>210535</bepTime>
+				<smi>M17</smi>
+				<dsp>BJS</dsp>
+				<rgs>SJW</rgs>
+				<rgsTime>210535</rgsTime>
+				<msn>M22A</msn>
+				<datagramType>POS</datagramType>
+			</head>
+			<datamsg>
+				<unit name="SENDTIME">2016-03-21 05:35:12</unit>
+				<unit name="LON">E114515040</unit>
+				<unit name="LAT">N36594200</unit>
+				<unit name="FOB">22560</unit>
+				<unit name="ALT">A32106</unit>
+			</datamsg>
+			<rawmsg><![CDATA[&#x1;QU SZXDPO3
+.BJSXCXA 210535
+&#x2;M17
+FI O36876/AN B-2630
+DT BJS SJW 210535 M22A
+-  POS210535/N 36.995/E114.864/22560/A32106
+&#x3;]]></rawmsg>
+		</Message>
+		<Message type="ACARSResult" source="ACARS" reality="T"
+			rcvTime="2016-03-21 05:40:08">
+			<head>
+				<datagramId>20160321054008M17B-2630M23A</datagramId>
+				<priority>QU</priority>
+				<an>B-2630</an>
+				<fi>O36876</fi>
+				<rcvAddress>SZXDPO3</rcvAddress>
+				<sndAddress>BJSXCXA</sndAddress>
+				<bepTime>210540</bepTime>
+				<smi>M17</smi>
+				<dsp>BJS</dsp>
+				<rgs>TNA</rgs>
+				<rgsTime>210540</rgsTime>
+				<msn>M23A</msn>
+				<datagramType>POS</datagramType>
+			</head>
+			<datamsg>
+				<unit name="SENDTIME">2016-03-21 05:40:08</unit>
+				<unit name="LON">E114552640</unit>
+				<unit name="LAT">N36233120</unit>
+				<unit name="FOB">22080</unit>
+				<unit name="ALT">A32112</unit>
+			</datamsg>
+			<rawmsg><![CDATA[&#x1;QU SZXDPO3
+.BJSXCXA 210540
+&#x2;M17
+FI O36876/AN B-2630
+DT BJS TNA 210540 M23A
+-  POS210540/N 36.392/E114.924/22080/A32112
+&#x3;]]></rawmsg>
+		</Message>
+		<Message type="ACARSResult" source="ACARS" reality="T"
+			rcvTime="2016-03-21 05:45:15">
+			<head>
+				<datagramId>20160321054515M17B-2630M24A</datagramId>
+				<priority>QU</priority>
+				<an>B-2630</an>
+				<fi>O36876</fi>
+				<rcvAddress>SZXDPO3</rcvAddress>
+				<sndAddress>BJSXCXA</sndAddress>
+				<bepTime>210545</bepTime>
+				<smi>M17</smi>
+				<dsp>BJS</dsp>
+				<rgs>TNA</rgs>
+				<rgsTime>210545</rgsTime>
+				<msn>M24A</msn>
+				<datagramType>POS</datagramType>
+			</head>
+			<datamsg>
+				<unit name="SENDTIME">2016-03-21 05:45:15</unit>
+				<unit name="LON">E114483960</unit>
+				<unit name="LAT">N35485400</unit>
+				<unit name="FOB">21600</unit>
+				<unit name="ALT">A32110</unit>
+			</datamsg>
+			<rawmsg><![CDATA[&#x1;QU SZXDPO3
+.BJSXCXA 210545
+&#x2;M17
+FI O36876/AN B-2630
+DT BJS TNA 210545 M24A
+-  POS210545/N 35.815/E114.811/21600/A32110
+&#x3;]]></rawmsg>
+		</Message>
+		<Message type="ACARSResult" source="ACARS" reality="T"
+			rcvTime="2016-03-21 05:50:07">
+			<head>
+				<datagramId>20160321055007M17B-2630M25A</datagramId>
+				<priority>QU</priority>
+				<an>B-2630</an>
+				<fi>O36876</fi>
+				<rcvAddress>SZXDPO3</rcvAddress>
+				<sndAddress>BJSXCXA</sndAddress>
+				<bepTime>210550</bepTime>
+				<smi>M17</smi>
+				<dsp>BJS</dsp>
+				<rgs>TNA</rgs>
+				<rgsTime>210550</rgsTime>
+				<msn>M25A</msn>
+				<datagramType>POS</datagramType>
+			</head>
+			<datamsg>
+				<unit name="SENDTIME">2016-03-21 05:50:07</unit>
+				<unit name="LON">E114450720</unit>
+				<unit name="LAT">N35130840</unit>
+				<unit name="FOB">21080</unit>
+				<unit name="ALT">A32101</unit>
+			</datamsg>
+			<rawmsg><![CDATA[&#x1;QU SZXDPO3
+.BJSXCXA 210550
+&#x2;M17
+FI O36876/AN B-2630
+DT BJS TNA 210550 M25A
+-  POS210550/N 35.219/E114.752/21080/A32101
+&#x3;]]></rawmsg>
+		</Message>
+		<Message type="ACARSResult" source="ACARS" reality="T"
+			rcvTime="2016-03-21 05:55:14">
+			<head>
+				<datagramId>20160321055514M17B-2630M26A</datagramId>
+				<priority>QU</priority>
+				<an>B-2630</an>
+				<fi>O36876</fi>
+				<rcvAddress>SZXDPO3</rcvAddress>
+				<sndAddress>BJSXCXA</sndAddress>
+				<bepTime>210555</bepTime>
+				<smi>M17</smi>
+				<dsp>BJS</dsp>
+				<rgs>TNA</rgs>
+				<rgsTime>210555</rgsTime>
+				<msn>M26A</msn>
+				<datagramType>POS</datagramType>
+			</head>
+			<datamsg>
+				<unit name="SENDTIME">2016-03-21 05:55:14</unit>
+				<unit name="LON">E114414200</unit>
+				<unit name="LAT">N34374440</unit>
+				<unit name="FOB">20640</unit>
+				<unit name="ALT">A32109</unit>
+			</datamsg>
+			<rawmsg><![CDATA[&#x1;QU SZXDPO3
+.BJSXCXA 210555
+&#x2;M17
+FI O36876/AN B-2630
+DT BJS TNA 210555 M26A
+-  POS210555/N 34.629/E114.695/20640/A32109
+&#x3;]]></rawmsg>
+		</Message>
+		<Message type="ACARSResult" source="ACARS" reality="T"
+			rcvTime="2016-03-21 06:00:09">
+			<head>
+				<datagramId>20160321060009M17B-2630M27A</datagramId>
+				<priority>QU</priority>
+				<an>B-2630</an>
+				<fi>O36876</fi>
+				<rcvAddress>SZXDPO3</rcvAddress>
+				<sndAddress>BJSXCXA</sndAddress>
+				<bepTime>210600</bepTime>
+				<smi>M17</smi>
+				<dsp>BJS</dsp>
+				<rgs>XUZ</rgs>
+				<rgsTime>210600</rgsTime>
+				<msn>M27A</msn>
+				<datagramType>POS</datagramType>
+			</head>
+			<datamsg>
+				<unit name="SENDTIME">2016-03-21 06:00:09</unit>
+				<unit name="LON">E114380960</unit>
+				<unit name="LAT">N34020960</unit>
+				<unit name="FOB">20120</unit>
+				<unit name="ALT">A32107</unit>
+			</datamsg>
+			<rawmsg><![CDATA[&#x1;QU SZXDPO3
+.BJSXCXA 210600
+&#x2;M17
+FI O36876/AN B-2630
+DT BJS XUZ 210600 M27A
+-  POS210600/N 34.036/E114.636/20120/A32107
+&#x3;]]></rawmsg>
+		</Message>
+		<Message type="ACARSResult" source="ACARS" reality="T"
+			rcvTime="2016-03-21 06:05:15">
+			<head>
+				<datagramId>20160321060515M17B-2630M28A</datagramId>
+				<priority>QU</priority>
+				<an>B-2630</an>
+				<fi>O36876</fi>
+				<rcvAddress>SZXDPO3</rcvAddress>
+				<sndAddress>BJSXCXA</sndAddress>
+				<bepTime>210605</bepTime>
+				<smi>M17</smi>
+				<dsp>BJS</dsp>
+				<rgs>WUH</rgs>
+				<rgsTime>210605</rgsTime>
+				<msn>M28A</msn>
+				<datagramType>POS</datagramType>
+			</head>
+			<datamsg>
+				<unit name="SENDTIME">2016-03-21 06:05:15</unit>
+				<unit name="LON">E114345880</unit>
+				<unit name="LAT">N33264560</unit>
+				<unit name="FOB">19560</unit>
+				<unit name="ALT">A32110</unit>
+			</datamsg>
+			<rawmsg><![CDATA[&#x1;QU SZXDPO3
+.BJSXCXA 210605
+&#x2;M17
+FI O36876/AN B-2630
+DT BJS WUH 210605 M28A
+-  POS210605/N 33.446/E114.583/19560/A32110
+&#x3;]]></rawmsg>
+		</Message>
+		<Message type="ACARSResult" source="ACARS" reality="T"
+			rcvTime="2016-03-21 06:10:07">
+			<head>
+				<datagramId>20160321061007M17B-2630M29A</datagramId>
+				<priority>QU</priority>
+				<an>B-2630</an>
+				<fi>O36876</fi>
+				<rcvAddress>SZXDPO3</rcvAddress>
+				<sndAddress>BJSXCXA</sndAddress>
+				<bepTime>210610</bepTime>
+				<smi>M17</smi>
+				<dsp>BJS</dsp>
+				<rgs>WUH</rgs>
+				<rgsTime>210610</rgsTime>
+				<msn>M29A</msn>
+				<datagramType>POS</datagramType>
+			</head>
+			<datamsg>
+				<unit name="SENDTIME">2016-03-21 06:10:07</unit>
+				<unit name="LON">E114313720</unit>
+				<unit name="LAT">N32511440</unit>
+				<unit name="FOB">19280</unit>
+				<unit name="ALT">A32108</unit>
+			</datamsg>
+			<rawmsg><![CDATA[&#x1;QU SZXDPO3
+.BJSXCXA 210610
+&#x2;M17
+FI O36876/AN B-2630
+DT BJS WUH 210610 M29A
+-  POS210610/N 32.854/E114.527/19280/A32108
+&#x3;]]></rawmsg>
+		</Message>
+	</Data>
+	<MaxId>30605079</MaxId>
+	<Counts>10</Counts>
+	<resultCode>0</resultCode>
+	<version>2.0</version>
+</skycenter>
